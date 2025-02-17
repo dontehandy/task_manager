@@ -27,7 +27,9 @@ Things you may want to cover:
 * CRUD Operations and RESTful Rails
 
 CRUD stands for Create, Read, Update, and Delete. 
+
 These are the four basic operations performed on persistent data.  
+
 A RESTful Rails application maps these operations to specific HTTP verbs and URLs, following conventions to create a consistent and predictable API. 
 
 In this API:
